@@ -14,7 +14,7 @@ Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--
 
 ## Project contents
 
-##This project consists for the following files:
+This project consists for the following files:
 
 * index.html - main html file to be run.
 * image - folder that contains all the images used in the webpage.
