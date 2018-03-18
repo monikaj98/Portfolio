@@ -18,6 +18,7 @@ This project consists for the following files:
 
 * index.html - main html file to be run.
 * style - folder that consists of a css file that provides the styling to the webpage.
+* Download the images as those are used in the website.
 
 ## How to Run Project
 
